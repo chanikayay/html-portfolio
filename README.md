@@ -1,2 +1,2 @@
 # html-portfolio
-Basic Online Portfolio Learning With HTML
+Learned how to make a basic online portfolio using HTML
